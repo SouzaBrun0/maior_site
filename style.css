@@ -42,7 +42,7 @@ header{
 header h1{
     font-family: var(--fontes-destaque);
     font-weight: normal;
-    font-size: 45px;
+    font-size: 30px;
 }
 header p{
     font-family: var(--fonte-padrao);
@@ -95,6 +95,7 @@ h2{
     color: var(--cor4);
     background-image: linear-gradient(to right,var(--cor1), transparent) ;
     margin-left: -5px;
+    font-size: 15px;
 }
 main a {
     text-decoration: none;
